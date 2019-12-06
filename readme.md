@@ -66,3 +66,17 @@ Etape 30
 	    <artifactId>jquery</artifactId>
 	    <version>1.9.1</version>
 	</dependency>
+	
+Etape 6 P2
+	
+	Oui pour l'api Darksky il faut une clé
+	
+	https://api.darksky.net/forecast/clé/lat,lon
+	
+	https://api.darksky.net/forecast/clé/lat,lon?option=val
+	
+	temperature	55.62
+	
+	dans le daily
+	
+	https://github.com/bouvetb/TPnote
