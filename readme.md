@@ -73,6 +73,8 @@ Etape 6 P2
 	
 	https://api.darksky.net/forecast/clé/lat,lon
 	
+	Il faut utiliser un GET
+	
 	https://api.darksky.net/forecast/clé/lat,lon?option=val
 	
 	temperature	55.62
